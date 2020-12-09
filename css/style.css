@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Jua&family=Patua+One&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-size: 18px;
+	margin: 0px;
+	background-color: #A2485F;
+}
+
+h2 {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+	letter-spacing: 3px;
+	color: white;
+}
+	

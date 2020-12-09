@@ -1,0 +1,21 @@
+.btn-blue {
+	background-color: #A2485F;
+	padding: 15px 20px;
+	border-radius: 50px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+a {
+	text-decoration: none;
+	border-radius: 50px;
+}
+
+
+a:hover {
+	background-color: #5A47AE;
+}
